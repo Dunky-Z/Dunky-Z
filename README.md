@@ -18,5 +18,4 @@
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:  
 </p>
 <p align="center">
-𝑰𝒍𝒍𝒖𝒎𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒅 𝒃𝒚 <a href = "https://dribbble.com/danielzeller">Daniel Zeller<a/>
-</p>
+𝑰𝒍𝒍𝒖𝒎𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒅 𝒃𝒚 Dominic
