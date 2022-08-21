@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gitee.com//dominic_z/markdown_picbed/raw/master/img/GIF2.gif" width="40%">
+  <img src="https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img/202208212249200.gif" width="40%">
   <br><br>
   <samp>
     𝑯𝒊, 𝑰'𝒎 𝑫𝒐𝒎𝒊𝒏𝒊𝒄 :wave:
@@ -14,4 +14,3 @@
 </p>
 
 <p align="center">
-𝑰𝒍𝒍𝒖𝒎𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒅 𝒃𝒚 Dominic
