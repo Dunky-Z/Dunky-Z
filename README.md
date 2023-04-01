@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2022/10/16/a6e3efa4ab536d3f666fa9b0db5f39bd.gif" width="40%">
+  <img src="https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2023/04/01/43f551066c260b13a82af66959e95616.gif" width="40%">
   <br><br>
   <samp>
     𝑯𝒊, 𝑰'𝒎 𝑫𝒐𝒎𝒊𝒏𝒊𝒄 :wave:
