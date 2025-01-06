@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2024/01/30/8bf6d7095e7891ae7c186be0e18b80ac.png" width="40%">
   <br><br>
   <samp>
     𝑯𝒊, 𝑰'𝒎 𝑫𝒐𝒎𝒊𝒏𝒊𝒄 :wave:
